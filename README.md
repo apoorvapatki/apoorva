@@ -1,6 +1,6 @@
-# apoorva
+Visualize API
 
-**Project Name**: Visualize API 
+**Project:** 
 A lightweight tool designed for Product Managers and Engineers to instantly bridge the gap between technical backend infrastructure data and front-end interface layout design
 
 **The Problem**
